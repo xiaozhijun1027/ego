@@ -5,5 +5,5 @@
     <artifactId>ego-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>ego-common</artifactId>
+  <artifactId>ego-commons</artifactId>
 </project>
